@@ -1,0 +1,2 @@
+Bianca Tang
+Owned code is in MyAI.cpp and MyAI.hpp, under the marked sections.
